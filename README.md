@@ -1,2 +1,5 @@
 # London-bike-sharing-Time-series-forcasting
-London bike sharing Demand Prediction with LSTMs using TensorFlow 2 and Keras in Python
+London bike sharing Demand Prediction with LSTMs, Dense model.
+using TensorFlow 2 and Keras in Python
+
+This project shows forcasting using multivariate time series. Forcasting using more than just one feature.
